@@ -4,3 +4,4 @@ this add in master
 add version ?
 merge with --no-ff
 ci as master
+git tag v1.0 
